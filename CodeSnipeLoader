@@ -1,1 +1,2 @@
-
+script_key = "trial" 
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/2357de68330e96b085702daab1e2bac6f433a1dbf49ebe789c111383c5f3f5cd.lua"))()
